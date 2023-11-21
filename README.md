@@ -174,6 +174,30 @@ The synthesis of atropine from ipratropium bromide involves the use of strong ba
 5. Seek guidance from an experienced chemist if unsure about any aspect of the procedure.
 
 ------------
+Synthesis of Benzydamine:
+
+Preparation of o-Phenylenediamine: Begin by preparing o-phenylenediamine, a crucial starting material for benzydamine synthesis. This can be achieved by reducing o-nitroaniline using a suitable reducing agent, such as iron (Fe) and hydrochloric acid (HCl).
+
+Reaction with Benzaldehyde: Dissolve o-phenylenediamine in acetic acid to create a solution. Separately, dissolve benzaldehyde in acetic acid to form another solution. Slowly add the benzaldehyde solution to the o-phenylenediamine solution while stirring continuously. This reaction leads to the formation of an intermediate Schiff base.
+
+Cyclization: Heat the reaction mixture from step 2 under reflux conditions. This promotes the cyclization of the Schiff base intermediate, resulting in the formation of the benzydamine molecule.
+
+Purification: Allow the reaction mixture to cool, then filter the solid benzydamine product. Recrystallize the benzydamine from a suitable solvent, such as ethanol, to obtain pure benzydamine crystals.
+
+Synthesis of Diphenhydramine:
+
+Preparation of Bromodiphenhydramine: Begin by preparing bromodiphenhydramine, a crucial starting material for diphenhydramine synthesis. This can be achieved by brominating diphenylmethanol under acidic conditions.
+
+Reaction with Benzaldehyde: Dissolve bromodiphenhydramine in a mixture of ethanol and water. Separately, dissolve benzaldehyde in ethanol to form another solution. Slowly add the benzaldehyde solution to the bromodiphenhydramine solution while stirring continuously. This reaction leads to the formation of an intermediate Schiff base.
+
+Cyclization and Demethylation: Heat the reaction mixture from step 2 under reflux conditions with the addition of sodium hydroxide (NaOH). This promotes the cyclization of the Schiff base intermediate and the demethylation of the bromodiphenhydramine molecule, resulting in the formation of the diphenhydramine molecule.
+
+Purification: Allow the reaction mixture to cool, then filter the solid diphenhydramine product. Recrystallize the diphenhydramine from a suitable solvent, such as ethanol, to obtain pure diphenhydramine crystals.
+
+------------
+
+
+
 
 ❤️ **We used our own time and effort into making this publicly available, and we are doing this in a non-profit way. If you feel like thanking us, we accept bitcoin, ethereum and monero donations. This will keep us running, and lead to more updates in the future!**
 
