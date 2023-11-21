@@ -1,17 +1,17 @@
-# Compound-Transformations
+# 🧪Compound-Transformations
 A list of guides/step by step how to turn a certain compound/chemical into a different/new chemical/compound.
 
 
-# Warning
+# ⚠️Warning
 > A quick disclaimer/warning is required being read before proceeding, please proceed with caution and verify the information in this text. We are NOT liable for any misinformation or anything caused by this information, YOU should verify what you are about to do.A quick disclaimer/warning is required being read before proceeding, please proceed with caution and verify the information in this text. We are NOT liable for any misinformation or anything caused by this information, YOU should verify what you are about to do.
 
-# Guides
+# 📖Guides
 > Here is the list of guides/step by step to turning a chemical/compound into a different bond.
 
-### Caffeine -> Theobromine
+### ⚕️Caffeine -> Theobromine
 This is a guide on how to convert caffeine into theobromine, including the amounts of different reagents to add and adjustments for varying amounts of caffeine:
 
-**Materials:**
+**🧱Materials:**
 
 * Caffeine (variable amount)
 * Methanol (1 mL per 100 mg of caffeine)
@@ -24,7 +24,7 @@ This is a guide on how to convert caffeine into theobromine, including the amoun
 * Filter paper
 * Rotary evaporator
 
-**Procedure:**
+**✅Procedure:**
 
 1. **Preparation of the caffeine-base complex:**
 
@@ -72,11 +72,11 @@ This is a guide on how to convert caffeine into theobromine, including the amoun
 
    b. The remaining residue will contain the purified theobromine.
 
-**Theoretical yield:**
+**🔢Theoretical yield:**
 
 The theoretical yield of theobromine from this procedure is approximately 1.1 g per 100 mg of caffeine. However, the actual yield may be lower due to losses during the extraction and purification steps.
 
-**Safety precautions:**
+**😷Safety precautions:**
 
 * Dimethyl sulfate is a toxic and corrosive compound. Handle it with care and wear appropriate protective gloves and goggles.
 
@@ -84,7 +84,7 @@ The theoretical yield of theobromine from this procedure is approximately 1.1 g 
 
 * All waste materials should be disposed of properly according to local regulations.
 
-**Adjustments for varying amounts of caffeine:**
+**🛠️Adjustments for varying amounts of caffeine:**
 
 The amounts of reagents and solvents mentioned in the procedure can be adjusted proportionally based on the amount of caffeine you have. For instance, if you have 200 mg of caffeine, you would use 2 mL of methanol, 1 g of sodium hydroxide, 0.1 mL of dimethyl sulfate, 50 mL of distilled water, and 50 mL of ethyl acetate.
 
@@ -175,8 +175,9 @@ The synthesis of atropine from ipratropium bromide involves the use of strong ba
 
 ------------
 
-❤️ **We used our own time and effort into making this publicly available, and we are doing this in a non-profit way. If you feel like thanking us, we accept bitcoin, ethereum (NOT CLASSIC) and ripple donations. This will keep us running, and lead to more updates in the future!**
+❤️ **We used our own time and effort into making this publicly available, and we are doing this in a non-profit way. If you feel like thanking us, we accept bitcoin, ethereum and monero donations. This will keep us running, and lead to more updates in the future!**
 
-![image](https://github.com/TaxPRiNTER/Compound-Transformations/assets/146424699/f6eb8974-5952-46c1-8aa9-359fda78015b) ![image](https://github.com/TaxPRiNTER/Compound-Transformations/assets/146424699/e971cb49-88d1-40f1-8646-2702609cc73a) ![image](https://github.com/TaxPRiNTER/Compound-Transformations/assets/146424699/3dcaa54b-a26d-4ceb-aefc-fc14c019c078)
+![image](https://github.com/TaxPRiNTER/Compound-Transformations/assets/146424699/ae63e9e7-b262-48dc-bc31-cc9aea7ffdfa)![image](https://github.com/TaxPRiNTER/Compound-Transformations/assets/146424699/029490b3-4776-4fd7-90cc-de0eb84b3184)![image](https://github.com/TaxPRiNTER/Compound-Transformations/assets/146424699/0704ae34-ef6a-4b3a-aa46-716355dedb57)
+
 
 
