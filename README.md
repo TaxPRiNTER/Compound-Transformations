@@ -174,7 +174,7 @@ The synthesis of atropine from ipratropium bromide involves the use of strong ba
 5. Seek guidance from an experienced chemist if unsure about any aspect of the procedure.
 
 ------------
-Synthesis of Benzydamine:
+# Synthesis of Benzydamine:
 
 Preparation of o-Phenylenediamine: Begin by preparing o-phenylenediamine, a crucial starting material for benzydamine synthesis. This can be achieved by reducing o-nitroaniline using a suitable reducing agent, such as iron (Fe) and hydrochloric acid (HCl).
 
@@ -184,7 +184,10 @@ Cyclization: Heat the reaction mixture from step 2 under reflux conditions. This
 
 Purification: Allow the reaction mixture to cool, then filter the solid benzydamine product. Recrystallize the benzydamine from a suitable solvent, such as ethanol, to obtain pure benzydamine crystals.
 
-Synthesis of Diphenhydramine:
+------------
+
+
+# Synthesis of Diphenhydramine:
 
 Preparation of Bromodiphenhydramine: Begin by preparing bromodiphenhydramine, a crucial starting material for diphenhydramine synthesis. This can be achieved by brominating diphenylmethanol under acidic conditions.
 
