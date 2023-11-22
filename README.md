@@ -5,6 +5,7 @@ A list of guides/step by step how to turn a certain compound/chemical into a dif
 # ⚠️Warning
 > A quick disclaimer/warning is required being read before proceeding, please proceed with caution and verify the information in this text. We are NOT liable for any misinformation or anything caused by this information, YOU should verify what you are about to do.A quick disclaimer/warning is required being read before proceeding, please proceed with caution and verify the information in this text. We are NOT liable for any misinformation or anything caused by this information, YOU should verify what you are about to do.
 
+# ⚠️WE HAVE MOVED TO https://thechemistrysynthesis.wordpress.com/
 # 📖Guides
 > Here is the list of guides/step by step to turning a chemical/compound into a different bond.
 
